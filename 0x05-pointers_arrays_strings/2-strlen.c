@@ -17,8 +17,4 @@ int _strlen(char *s)
 
 	return (n);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-P
+
